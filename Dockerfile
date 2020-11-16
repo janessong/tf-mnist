@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-image-public/tf-mnist:gpu
+FROM gcr.io/kubeflow-images-public/tf-mnist:gpu
